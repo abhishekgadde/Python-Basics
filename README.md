@@ -4,13 +4,13 @@ Here's the list for Python:
 
 Core Fundamental topics:
 
--Basic terminal commands 
--Basic arithmetic (+,-,/,*) 
--Accepting user input 
--For & While loops 
--Exception handling 
--If-Else statements 
--Functions, modules & Imports
+- Basic terminal commands 
+- Basic arithmetic (+,-,/,*) 
+- Accepting user input 
+- For & While loops 
+- Exception handling 
+- If-Else statements 
+- Functions, modules & Imports
 
 Some tougher fundamental concepts:
 
