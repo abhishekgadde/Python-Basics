@@ -1,6 +1,9 @@
 # Python-Basics
+
 Here's the list for Python:
- Core Fundamental topics: 
+
+Core Fundamental topics:
+
 -Basic terminal commands 
 -Basic arithmetic (+,-,/,*) 
 -Accepting user input 
@@ -9,7 +12,8 @@ Here's the list for Python:
 -If-Else statements 
 -Functions, modules & Imports
 
-Some tougher fundamental concepts: - 
+Some tougher fundamental concepts:
+
 -Object-oriented programming in Python
 -Classes, Objects, Methods 
 - PIP (Pypi) 
