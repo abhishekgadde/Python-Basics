@@ -1,5 +1,0 @@
-val = int(input())
-if val%6==0:
-      print("YES", end="")
-else:
-      print("NO", end="")
