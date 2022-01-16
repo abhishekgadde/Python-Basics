@@ -14,8 +14,8 @@ Core Fundamental topics:
 
 Some tougher fundamental concepts:
 
--Object-oriented programming in Python
--Classes, Objects, Methods 
+- Object-oriented programming in Python
+- Classes, Objects, Methods 
 - PIP (Pypi) 
 - List slicing 
 - String formatting 
