@@ -1,4 +1,6 @@
-# Python-Basics
+# Python-Fundamentals
+
+These are the core fundamentals covered in this repository.
 
 Here's the list for Python:
 
