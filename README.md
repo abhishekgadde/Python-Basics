@@ -2,7 +2,7 @@
 
 These are the core fundamentals covered in this repository.
 
-Here's the list for Python:
+Here's the list of fundamentals in python:
 
 Core Fundamental topics:
 
