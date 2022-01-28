@@ -25,7 +25,7 @@ Some tougher fundamental concepts:
 - Managing environments 
 - Dunder methods like __init__
 
-Even tougher fundamentals: 
+Even tougher fundamentals : 
 - Lambda functions 
 - Built in libraries like CSV, requests, Sqlite 
 - Map and Filter 
